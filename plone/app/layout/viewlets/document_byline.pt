@@ -102,9 +102,9 @@
     <li><span>Content name: Name</span></li>
     <li><span>Short name: /short-name</span></li>
     <li class="plone-toolbar-submenu-header">
-      <span>Connected Translations</span>
+      <span>Linked Translations</span>
     </li>
-    <li><span><a>Occitanian</a></span></li>
-    <li><span><a>German</a></span></li>
+    <li><a>Occitanian</a></li>
+    <li><a>German</a></li>
   </ul>
 </li>
